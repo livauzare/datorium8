@@ -1,2 +1,2 @@
 # datorium8
-#pirmais virsraksts
+# pirmais virsraksts
